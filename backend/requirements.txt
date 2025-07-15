@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-generativeai
+faster-whisper
+gtts
+yt-dlp
+python-dotenv 
